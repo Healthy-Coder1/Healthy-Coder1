@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Healthy-Coder1
+- 👋 Hi, I’m the one and only Healthy Coder
 - 👀 I’m interested in Data Engineering and Webdesign
 - 🌱 I’m currently Project-based learning on both of my interests.
 
